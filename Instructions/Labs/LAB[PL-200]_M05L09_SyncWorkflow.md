@@ -17,7 +17,7 @@ While the application is in the process of updating its user experience, some re
 For more information and for a complete list of affected terms, please visit [What is Microsoft Dataverse?](https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/data-platform-intro#terminology-updates)
 
 Scenario
---------
+---
 
 As a functional consultant at Contoso, you are you continuing to work on a
 model-driven Knowledge Admin app for your client Fabrikam. Your client has
@@ -30,14 +30,23 @@ In this exercise, you will create a synchronous workflow that will run when a Kn
 workflow will check the status and prevent deletion if the status is not Inactive.
 ### Task 1 – Create a flow
 
-1.  Navigate to <https://powerautomate.com>.
+ [] 1.  Navigate to <https://powerautomate.com>.
+|    demo                                              | demo |
+| ------------------------------------------------- | ---- |
+| <input type="checkbox" disabled checked /> works  |      |
+| <input type="checkbox" disabled /> works here too |      |
+<ul>
+    <li><input type="checkbox" checked> First task</li>
+    <li><input type="checkbox"> Second task</li>
+</ul>
+- [x] test
 
-1.  Make sure you have your **Practice** environment selected.
+- [ ] 1.  Make sure you have your **Practice** environment selected.
 
-1.  Select **Solutions** and click to open the **Common Data Services Default
+1. [ ]  Select **Solutions** and click to open the **Common Data Services Default
     Solution.**
 
-1.  From the left hand menu, select **Flows.** (If you get a pop-up here, just
+1. [ ] From the left hand menu, select **Flows.** (If you get a pop-up here, just
     choose your country/region and select **Get started.**)
 
 1.  Click **+ New Automation / Process / Workflow**.
