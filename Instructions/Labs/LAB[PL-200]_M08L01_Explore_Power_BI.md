@@ -22,11 +22,9 @@ Scenario
 You have been tasked with performing discovery and exploration of the Power BI web service, its capabilities and how it integrated with other services. in this exercise you will install a sample data pack and test out some of the Power Bi web service features.
 
 ## Exercise 1 – Explore the Power BI Web Service
-
 ~Ex Text~
 
 ### Task 1 – Install a Power BI Sample Data Pack
-
 ~Task Test~
 
 1. Navigate to <https://app.powerbi.com>.
